@@ -1,0 +1,7 @@
+*.[oa]
+*.dep
+.vscode
+linux*/
+lnInclude/
+backup/
+*~
