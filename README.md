@@ -1,6 +1,6 @@
 # Repositorio de Simulación de SOFC con OpenFuelCell2
 
-Bienvenido al repositorio para la **Simulación de una Celda de Combustible de Óxido Sólido (SOFC)** utilizando **OpenFuelCell2**, una extensión de OpenFOAM diseñada específicamente para modelar dispositivos electroquímicos. Este proyecto permite estudiar el impacto de condiciones operativas, como la temperatura, sobre el rendimiento de una SOFC tubular.
+Bienvenido al repositorio para la **[Simulación de una Celda de Combustible de Óxido Sólido (SOFC)](https://youtu.be/z8SVKpRC4zo)** utilizando **OpenFuelCell2**, una extensión de OpenFOAM diseñada específicamente para modelar dispositivos electroquímicos. Este proyecto permite estudiar el impacto de condiciones operativas, como la temperatura, sobre el rendimiento de una SOFC tubular.
 
 
 La reacción química de la SOFC a simular es la siguiente:
