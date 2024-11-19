@@ -83,7 +83,7 @@ cd openFuelCell2/src
    Asegúrate de tener OpenFOAM y OpenFuelCell2 instalados en tu sistema. Sigue la [guía de instalación de OpenFuelCell2](https://github.com/openFuelCell2/openFuelCell2) para más detalles.
 
 2. **Modificar Parámetros**  
-   Ajusta la temperatura u otros parámetros en el archivo `0.origin/T` para simular diferentes condiciones operativas. Ejemplo:
+   Ajusta la temperatura u otros parámetros en el archivo `0.orig/T` para simular diferentes condiciones operativas. Ejemplo:
    ```plaintext
    internalField   uniform 973; 
 
